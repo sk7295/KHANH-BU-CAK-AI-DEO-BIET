@@ -1,0 +1,27 @@
+{
+  "name": "Lê Thanh Tâm",
+  "ID": "100012196305169",
+  "pet": [
+    {
+      "name": "Ducklett",
+      "type": "Water",
+      "HP": "24.8",
+      "Attack": "17.6",
+      "Defense": "20.0",
+      "Speed": "22.0",
+      "skill": [
+        "Keen Eye",
+        "Big Pecks",
+        "Hydration"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/580.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

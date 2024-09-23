@@ -1,0 +1,23 @@
+{
+	"Language": "vi",
+	"PreKey": "",
+	"AutoUpdate": true,
+	"MainColor": "#9900FF",
+	"MainName": "Võ Nhật Hoàng",
+	"Uptime": true,
+	"Login2Fa": true,
+	"AutoLogin": false,
+	"BroadCast": true,
+	"EncryptFeature": true,
+	"ResetDataLogin": true,
+	"AutoRestartMinutes": 0,
+	"HTML": {
+		"HTML": false,
+		"UserName": "Võ Nhật Hoàng",
+		"MusicLink": ""
+	},
+	"AuthString": "R3AY SON6 P73D YFJ5 WVYQ MUDT BP4I MNHU | https://i.imgur.com/5TSR3kE.jpeg Please remove this !, Recommend If You Use getUserInfoV2",
+	"Config": "default",
+	"DevMode": false,
+	"RestartMQTT_Minutes": 30
+}
